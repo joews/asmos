@@ -1,3 +1,6 @@
+; From http://mikeos.berlios.de/write-your-own-os.html
+; (c) 2013 Mike Saunders and MikeOS Developers
+
 	BITS 16
 
 start:
